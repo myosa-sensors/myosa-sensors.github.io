@@ -36,7 +36,7 @@ All images must be placed in the **same folder** as your markdown file.
 Use the following format for images:
 
 <p align="center">
-<img src="/src/content/post/Submission Guideline/Images/your-image-name.jpeg" width="800"><br/>
+<img src= https://i.ibb.co/N2M7kBRf/your-image-name.jpg width="800"><br/>
 <i>Correct Image Format Example: Caption goes here</i>
 </p>
 
@@ -109,6 +109,7 @@ Participants may include installation commands for their projects using the foll
 ```bash
 
 pip install dependency1 dependency2
+
 
 
 
