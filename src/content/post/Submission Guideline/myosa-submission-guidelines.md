@@ -2,7 +2,7 @@
 publishDate: 2025-12-09T00:00:00Z
 title: Myosa 4.0 Submission Guidelines
 excerpt: The mandatory submission format and rules that all participants must strictly follow for the MYOSA project.
-image: /src/content/post/Submission Guideline/Images/myosa-guidelines-cover.jpg
+image: /myosa-sensors.github.io/src/content/post/Submission Guideline/Images/myosa-guidelines-cover.jpg
 tags:
 - submission
 - rules
@@ -107,4 +107,5 @@ Failure to follow the guidelines may result in rejection, a request for resubmis
 Participants may include installation commands for their projects using the following format:
 
 ```bash
+
 pip install dependency1 dependency2
