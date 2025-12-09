@@ -2,7 +2,7 @@
 publishDate: 2025-12-09T00:00:00Z
 title: Myosa 4.0 Submission Guidelines
 excerpt: The mandatory submission format and rules that all participants must strictly follow for the MYOSA project.
-image: /src/content/post/Submission_Guideline/Images/myosa-guidelines-cover.jpg
+image: ./Images/myosa-guidelines-cover.jpg
 tags:
 - submission
 - rules
@@ -36,7 +36,7 @@ All images must be placed in the **same folder** as your markdown file.
 Use the following format for images:
 
 <p align="center">
-<img src="/src/content/post/Submission_Guideline/Images/your-image-name.jpg" width="800"><br/>
+<img src="./Images/your-image-name.jpg" width="800"><br/>
 <i>Correct Image Format Example: Caption goes here</i>
 </p>
 
@@ -44,7 +44,7 @@ Use the following format for images:
 Youtube links are **NOT** allowed. Place your video in the same folder and use this format:
 
 <video controls width="100%">
-<source src="/src/content/post/Submission_Guideline/Videos/your-video-name.mp4" type="video/mp4">
+<source src="./Videos/your-video-name.mp4" type="video/mp4">
 </video>
 <i> Correct Video Format Example: Caption goes here</i>
 
@@ -109,3 +109,4 @@ Participants may include installation commands for their projects using the foll
 ```bash
 
 pip install dependency1 dependency2
+
