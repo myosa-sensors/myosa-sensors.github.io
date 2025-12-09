@@ -9,7 +9,7 @@ tags:
 - guidelines
 - myosa-4.0
 ---
-import { YouTube} from 'astro-embed';
+import { YouTube } from 'astro-embed';
 > This format is mandatory for all participants; failure to follow it may result in rejection.
 
 ---
@@ -106,6 +106,7 @@ Participants may include installation commands for their projects using the foll
 ```bash
 
 pip install dependency1 dependency2
+
 
 
 
