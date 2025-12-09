@@ -43,9 +43,7 @@ Use the following format for images:
 ### **Videos**
 Youtube links are **NOT** allowed. Place your video in the same folder and use this format:
 
-<video controls width="100%">
-<source src="/src/content/post/Submission Guideline/Videos/your-video-name.mp4" type="video/mp4">
-</video>
+<YouTube id="vpZ0BGtpLbs" />\n
 <i> Correct Video Format Example: Caption goes here</i>
 
 ---
@@ -109,6 +107,7 @@ Participants may include installation commands for their projects using the foll
 ```bash
 
 pip install dependency1 dependency2
+
 
 
 
