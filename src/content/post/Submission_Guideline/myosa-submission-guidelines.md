@@ -42,11 +42,9 @@ Use the following format for images:
 </p>
 
 ### **Videos**
-Youtube links are **NOT** allowed. Place your video in the same folder and use this format:
-
+Youtube links are NOT allowed. Place your video in the same folder and use this format:
 <YouTube id="X0q__X7cU18" />
-<i> Correct Video Format Example: Caption goes here</i>
-
+<i>Correct Video Format Example: Caption goes here</i>
 ---
 
 ## Features (Detailed)
@@ -108,6 +106,7 @@ Participants may include installation commands for their projects using the foll
 ```bash
 
 pip install dependency1 dependency2
+
 
 
 
