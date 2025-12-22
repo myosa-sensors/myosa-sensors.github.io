@@ -50,10 +50,7 @@ Use the following format for images:
     }}
 
 
-<p align="center">
-<img src="https://i.ibb.co/N2M7kBRf/your-image-name.jpg" width="800"><br/>
-<i>Correct Image Format Example: Caption goes here</i>
-</p>
+
 
 ### **Videos**
 
@@ -139,5 +136,6 @@ pip install dependency1 dependency2
 ---
 
 [[Top]](#top)
+
 
 
