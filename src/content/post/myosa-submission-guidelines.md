@@ -46,7 +46,7 @@ Use the following format for images:
 
 
   image = {{
-      src: '~/src/assets/images/banner op.png',
+      src: '~/src/assets/imagesd/banner op.png',
       alt: 'MYOSA Hero Image',
       class: 'rounded-xl shadow-2xl object-center  md:mx-auto',
     }}
@@ -140,6 +140,7 @@ pip install dependency1 dependency2
 ---
 
 [[Top]](#top)
+
 
 
 
