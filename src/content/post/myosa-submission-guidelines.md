@@ -42,6 +42,14 @@ All images must be placed in the **same folder** as your markdown file.
 
 Use the following format for images:
 
+
+  image={{
+      src: '~/assets/images/banner op.png',
+      alt: 'MYOSA Hero Image',
+      class: 'rounded-xl shadow-2xl object-center  md:mx-auto',
+    }}
+
+
 <p align="center">
 <img src="https://i.ibb.co/N2M7kBRf/your-image-name.jpg" width="800"><br/>
 <i>Correct Image Format Example: Caption goes here</i>
@@ -131,4 +139,5 @@ pip install dependency1 dependency2
 ---
 
 [[Top]](#top)
+
 
