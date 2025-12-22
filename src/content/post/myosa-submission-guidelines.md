@@ -10,7 +10,6 @@ tags:
   - myosa-4.0
 ---
 
-import { YouTube, Tweet, Vimeo } from 'astro-embed';
 
 > This format is mandatory for all participants; failure to follow it may result in rejection.
 
@@ -132,3 +131,4 @@ pip install dependency1 dependency2
 ---
 
 [[Top]](#top)
+
