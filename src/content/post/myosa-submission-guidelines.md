@@ -50,7 +50,9 @@ Use the following format for images:
 
 Youtube links are NOT allowed. Place your video in the same folder and use this format:
 
-<YouTube id="X0q__X7cU18" />
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/X0q__X7cU18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 <i>Correct Video Format Example: Caption goes here</i>
 
 ---
@@ -130,6 +132,7 @@ pip install dependency1 dependency2
 ---
 
 [[Top]](#top)
+
 
 
 
