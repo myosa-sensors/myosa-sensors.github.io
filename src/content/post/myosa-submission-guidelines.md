@@ -42,6 +42,8 @@ All images must be placed in the **same folder** as your markdown file.
 
 Use the following format for images:
 
+   image: ./cover.jpg
+
 
   image = {{
       src: '~/src/assets/images/banner op.png',
@@ -49,6 +51,8 @@ Use the following format for images:
       class: 'rounded-xl shadow-2xl object-center  md:mx-auto',
     }}
 
+
+    
 
 
 
@@ -136,6 +140,7 @@ pip install dependency1 dependency2
 ---
 
 [[Top]](#top)
+
 
 
 
