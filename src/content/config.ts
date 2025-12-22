@@ -1,4 +1,4 @@
-import { z, defineCollection } from 'astro:content';
+import { z, defineCollection, image } from 'astro:content';
 
 const metadataDefinition = () =>
   z
@@ -24,7 +24,8 @@ const metadataDefinition = () =>
           images: z
             .array(
               z.object({
-                url: z.string(),
+                // ✅ support local + remote images
+                url: z.union([z.string(), image()]),
                 width: z.number().optional(),
                 height: z.number().optional(),
               })
@@ -53,7 +54,9 @@ const postCollection = defineCollection({
 
     title: z.string(),
     excerpt: z.string().optional(),
-    image: z.string().optional(),
+
+    // ✅ support local + remote images
+    image: z.union([z.string(), image()]).optional(),
 
     category: z.string().optional(),
     tags: z.array(z.string()).optional(),
