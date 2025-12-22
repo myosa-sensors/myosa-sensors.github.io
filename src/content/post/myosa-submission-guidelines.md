@@ -2,7 +2,7 @@
 publishDate: 2025-12-12T00:00:00Z
 title: Myosa 4.0 Submission Guidelines
 excerpt: The mandatory submission format and rules that all participants must strictly follow for the MYOSA project.
-image : https://i.ibb.co/N2M7kBRf/your-image-name.jpg
+image : ./cover.jpg
 tags:
   - submission
   - rules
@@ -42,18 +42,8 @@ All images must be placed in the **same folder** as your markdown file.
 
 Use the following format for images:
 
-   image: ./cover.jpg
-
-
-  image = {{
-      src: '~/src/assets/imagesd/banner op.png',
-      alt: 'MYOSA Hero Image',
-      class: 'rounded-xl shadow-2xl object-center  md:mx-auto',
-    }}
-
-
+   
     
-
 
 
 ### **Videos**
@@ -140,6 +130,7 @@ pip install dependency1 dependency2
 ---
 
 [[Top]](#top)
+
 
 
 
