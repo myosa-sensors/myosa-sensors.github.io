@@ -40,7 +40,7 @@ export const headerData = {
         },
         {
             text: 'Blogs',
-            href: getBlogPermalink()
+            href: 'https://blog.myosa-sensors.org',
         },
     ],
     actions: [{
@@ -65,7 +65,7 @@ export const footerData = {
             links: [
                 { text: 'Wiki', href: "https://wiki.myosa-sensors.org/docs/intro" },
                 // { text: 'Downloads', href: '/downloads' },
-                { text: 'Blogs', href: '/blog' },
+                { text: 'Blogs', href: 'https://blog.myosa-sensors.org' },
                 // { text: 'Discord Community', href: '#' },
             ],
         },
